@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Mighty Morning
+
+Kristian lang Sakalam
